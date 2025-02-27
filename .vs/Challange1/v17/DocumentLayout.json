@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|c:\\users\\microsoft\\documents\\second semester\\programming day\\week 5\\challange1\\challange1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\dl\\admindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\dl\\admindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\ui\\productsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\ui\\productsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\bl\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\bl\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\bl\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\bl\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\dl\\productsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\dl\\productsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\challange1\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44259147-1DBB-4B74-8580-F3DE84AC0A22}|Challange1\\Challange1.csproj|solutionrelative:challange1\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsUI.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\UI\\ProductsUI.cs",
+              "RelativeDocumentMoniker": "Challange1\\UI\\ProductsUI.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\UI\\ProductsUI.cs",
+              "RelativeToolTip": "Challange1\\UI\\ProductsUI.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:23.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\UI\\AdminUI.cs",
+              "RelativeDocumentMoniker": "Challange1\\UI\\AdminUI.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\UI\\AdminUI.cs",
+              "RelativeToolTip": "Challange1\\UI\\AdminUI.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:21.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDL.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\DL\\UserDL.cs",
+              "RelativeDocumentMoniker": "Challange1\\DL\\UserDL.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\DL\\UserDL.cs",
+              "RelativeToolTip": "Challange1\\DL\\UserDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:18.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsDL.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\DL\\ProductsDL.cs",
+              "RelativeDocumentMoniker": "Challange1\\DL\\ProductsDL.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\DL\\ProductsDL.cs",
+              "RelativeToolTip": "Challange1\\DL\\ProductsDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDL.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\DL\\AdminDL.cs",
+              "RelativeDocumentMoniker": "Challange1\\DL\\AdminDL.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\DL\\AdminDL.cs",
+              "RelativeToolTip": "Challange1\\DL\\AdminDL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:12.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\User.cs",
+              "RelativeDocumentMoniker": "Challange1\\BL\\User.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\User.cs",
+              "RelativeToolTip": "Challange1\\BL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:08.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\Program.cs",
+              "RelativeDocumentMoniker": "Challange1\\Program.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\Program.cs",
+              "RelativeToolTip": "Challange1\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:42:45.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\UI\\UserUI.cs",
+              "RelativeDocumentMoniker": "Challange1\\UI\\UserUI.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\UI\\UserUI.cs",
+              "RelativeToolTip": "Challange1\\UI\\UserUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:25.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "Challange1\\BL\\ConsoleUtility.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\ConsoleUtility.cs",
+              "RelativeToolTip": "Challange1\\BL\\ConsoleUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:02:21.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\Products.cs",
+              "RelativeDocumentMoniker": "Challange1\\BL\\Products.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\Products.cs",
+              "RelativeToolTip": "Challange1\\BL\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:05.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\Admin.cs",
+              "RelativeDocumentMoniker": "Challange1\\BL\\Admin.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Documents\\Second Semester\\Programming Day\\week 5\\Challange1\\Challange1\\BL\\Admin.cs",
+              "RelativeToolTip": "Challange1\\BL\\Admin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:54:01.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
