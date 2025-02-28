@@ -9,11 +9,13 @@ namespace Challange1.DL
 {
     internal class AdminDL
     {
-        public static List<Admin> Admin = new List<Admin>();
-        public static void AddNewAdmin(Admin adminValue)
+        public static List<BL.Admin> Admin = new List<BL.Admin>()
+        {
+            new BL.Admin { AdminName = "Saeed", AdminPassword = "1234" }
+        };
+        public static void AddNewAdmin(BL.Admin adminValue)
         {
             Admin.Add(adminValue);
-            
         }
     }
 }

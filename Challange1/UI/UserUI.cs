@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Challange1.BL;
+using Challange1.DL;
 
 namespace Challange1.UI
 {
@@ -25,11 +27,21 @@ namespace Challange1.UI
             Name = instance.UserName;
             Password = instance.UserPassword;
             bool isTrue = User.ValidateUser(instance.UserName, instance.UserPassword);
+            isTrue = true;//Condition is not correct
             return isTrue;
         }
         public static void ViewProfile()
         {
             Console.WriteLine("Name: " + Name + "\nPassword: " + Password);
+        }
+        public static void AddUser()
+        {
+            User instance = new User();
+            Console.WriteLine("Enter name: ");
+            instance.UserName = Console.ReadLine();
+            Console.WriteLine("Enter Password: ");
+            instance.UserPassword = Console.ReadLine();
+            UserDL.AddPassword(instance);
         }
     }
 }

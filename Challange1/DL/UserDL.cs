@@ -9,7 +9,10 @@ namespace Challange1.DL
 {
     internal class UserDL
     {
-        public static List<User> User = new List<User>();
+        public static List<User> User = new List<User>()
+        {
+            new User{UserName="Ahmad", UserPassword="1234"}
+        };
         public static void AddPassword(User userValue)
         {
             User.Add(userValue);

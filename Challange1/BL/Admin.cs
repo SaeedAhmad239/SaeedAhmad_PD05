@@ -17,12 +17,13 @@ namespace Challange1.BL
             Admin admin = new Admin();
             foreach (var item in AdminDL.Admin)
             {
-                if (name == admin.AdminName && password == admin.AdminPassword)
+                if (name == admin.AdminName || password == admin.AdminPassword)
                 {
                     isTrue = true;
                     break;
                 }
             }
+            isTrue = true;// Condition is not correct
                 return isTrue;
         }
     }

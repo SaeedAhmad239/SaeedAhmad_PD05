@@ -1,0 +1,7 @@
+C:\Users\Microsoft\Documents\Second Semester\Programming Day\week 5\Challange1\Challange1\obj\Debug\Challange1.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Documents\Second Semester\Programming Day\week 5\Challange1\Challange1\obj\Debug\Challange1.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Documents\Second Semester\Programming Day\week 5\Challange1\Challange1\bin\Debug\Challange1.exe.config
+C:\Users\Microsoft\Documents\Second Semester\Programming Day\week 5\Challange1\Challange1\bin\Debug\Challange1.exe
+C:\Users\Microsoft\Documents\Second Semester\Programming Day\week 5\Challange1\Challange1\bin\Debug\Challange1.pdb
+C:\Users\Microsoft\Documents\Second Semester\Programming Day\week 5\Challange1\Challange1\obj\Debug\Challange1.exe
+C:\Users\Microsoft\Documents\Second Semester\Programming Day\week 5\Challange1\Challange1\obj\Debug\Challange1.pdb
